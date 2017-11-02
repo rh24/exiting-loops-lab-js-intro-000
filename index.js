@@ -6,7 +6,6 @@
 
       array[i] = changeValue;
     }
-
     return array;
   }
 
