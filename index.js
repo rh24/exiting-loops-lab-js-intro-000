@@ -6,8 +6,8 @@ function breakOut(array, changeValue, stopValue) {
     }
   }
 
-    return array;
-  }
+  return array;
+}
 
   // function breakOut(array, changeValue, stopValue) {
   //   for (let i = 0; i < array.length; i++) {
