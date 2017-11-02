@@ -3,9 +3,13 @@
       if (array[i] === stopValue) {
         break;
       }
-      
+
       array[i] = changeValue;
     }
 
     return array;
   }
+
+function keepGoing(array, changeValue, skipValue) {
+  
+}
